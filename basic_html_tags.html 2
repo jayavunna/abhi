@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>sample html page</title>
+</head>
+<body>
+<strong> I am Abhi </strong> <br>
+
+I have <mark> 9+ year </mark> of experience <br>
+
+price <strike> 2000 </strike> 1000 <br>
+
+java script is <strike> programming </strike> scripting language <br>
+
+java script is <ins> scripting language </ins> <br>
+
+<abbr title="Life Insurance Corporation of India">L.I.C</abbr><br>
+
+<a href="basic.txt" target="_blank"> Click Here </a> <br>
+
+<a href="https://www.lexus.co.uk"><img src="images/car_one.png" title="lexus" width=200 height=200></a>
+
+<h1>This is heading</h1>
+<h2>This is heading</h2>
+<h3>This is heading</h3>
+<h4>This is heading</h4>
+<h5>This is heading</h5>
+<h6>This is heading</h6>
+</body>
+</html>

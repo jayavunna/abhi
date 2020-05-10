@@ -1,0 +1,25 @@
+<style>
+p{
+background-color:orange;
+color:white;
+border:2px solid black;
+font-size:22px;
+font-style:italic;
+margin:50px;
+}
+.sample{
+background-color:green;
+}
+.sampl_one{
+font-weight:bold;
+}
+#sample_new{
+background-color:darkblue
+}
+#sample_two{
+font-weight:bold;
+}
+#sample_three{
+background-color:skyblue;
+}
+</style>
